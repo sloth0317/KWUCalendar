@@ -1,0 +1,10 @@
+C:\Users\Moomin\source\repos\TeamProject\Test\bin\Debug\Test.exe.config
+C:\Users\Moomin\source\repos\TeamProject\Test\bin\Debug\Test.exe
+C:\Users\Moomin\source\repos\TeamProject\Test\bin\Debug\Test.pdb
+C:\Users\Moomin\source\repos\TeamProject\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Moomin\source\repos\TeamProject\Test\obj\Debug\Test.Form1.resources
+C:\Users\Moomin\source\repos\TeamProject\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Moomin\source\repos\TeamProject\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Moomin\source\repos\TeamProject\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Moomin\source\repos\TeamProject\Test\obj\Debug\Test.exe
+C:\Users\Moomin\source\repos\TeamProject\Test\obj\Debug\Test.pdb
