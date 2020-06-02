@@ -10,3 +10,15 @@ C:\Users\Moomin\source\repos\TeamProject\Kanlendar\obj\x86\Debug\Kanlendar.cspro
 C:\Users\Moomin\source\repos\TeamProject\Kanlendar\obj\x86\Debug\Kanlendar.exe
 C:\Users\Moomin\source\repos\TeamProject\Kanlendar\obj\x86\Debug\Kanlendar.pdb
 C:\Users\Moomin\source\repos\TeamProject\Kanlendar\obj\x86\Debug\Kanlendar.Day.resources
+C:\Users\Moomin\source\repos\KWUCalendar\KWUCalendar\TeamProject\Kanlendar\obj\x86\Debug\Kanlendar.csprojAssemblyReference.cache
+C:\Users\Moomin\source\repos\KWUCalendar\KWUCalendar\TeamProject\Kanlendar\obj\x86\Debug\Kanlendar.DayView.resources
+C:\Users\Moomin\source\repos\KWUCalendar\KWUCalendar\TeamProject\Kanlendar\obj\x86\Debug\Kanlendar.Kalendar.resources
+C:\Users\Moomin\source\repos\KWUCalendar\KWUCalendar\TeamProject\Kanlendar\obj\x86\Debug\Kanlendar.Properties.Resources.resources
+C:\Users\Moomin\source\repos\KWUCalendar\KWUCalendar\TeamProject\Kanlendar\obj\x86\Debug\Kanlendar.csproj.GenerateResource.cache
+C:\Users\Moomin\source\repos\KWUCalendar\KWUCalendar\TeamProject\Kanlendar\obj\x86\Debug\Kanlendar.csproj.CoreCompileInputs.cache
+C:\Users\Moomin\source\repos\KWUCalendar\KWUCalendar\TeamProject\Kanlendar\obj\x86\Debug\Kanlendar.exe
+C:\Users\Moomin\source\repos\KWUCalendar\KWUCalendar\TeamProject\Kanlendar\obj\x86\Debug\Kanlendar.pdb
+C:\Users\Moomin\source\repos\KWUCalendar\KWUCalendar\TeamProject\Kanlendar\bin\x86\Debug\Kanlendar.exe.config
+C:\Users\Moomin\source\repos\KWUCalendar\KWUCalendar\TeamProject\Kanlendar\bin\x86\Debug\Kanlendar.exe
+C:\Users\Moomin\source\repos\KWUCalendar\KWUCalendar\TeamProject\Kanlendar\bin\x86\Debug\Kanlendar.pdb
+C:\Users\Moomin\source\repos\KWUCalendar\KWUCalendar\TeamProject\Kanlendar\obj\x86\Debug\Kanlendar.Data.resources
